@@ -23,6 +23,7 @@ I have had the opportunity to share my knowledge and expertise at various confer
 | Year | Event Name            | Event Talk                        | Location   | Link                                           |
 |------|-----------------------|-----------------------------------|------------|------------------------------------------------|
 | 2013 | FdtICT                | Disaster Recovery on AWS          |            | [PDF](#)                                       |
+| 2013 | Eurocloud             | Cloud Transcoding on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Eurocloud/2013/2013%20-%20Milano%20-%20Eurocloud%20-%20Cloud%20Transcoding.pdf)
 | 2014 | Docker Meetup         | Docker Introduction               | Milano     | [PDF](#)                                       |
 | 2015 | AWS User Group        | A talk on AWS                     | Ticino     | [PDF](#)                                       |
 | 2016 | CI&CD on AWS          | Continuous Integration & Delivery | Roma       | [PDF](#)                                       |
