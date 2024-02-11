@@ -1,8 +1,7 @@
 # Paolo Latella
 
 ## About Me
-Brief introduction about yourself, your professional background, and your interests. You can summarize your LinkedIn profile here.
-
+As a seasoned technology architect with over two decades of experience in the IT domain and a decade mastering AWS technologies, I am deeply passionate about cloud innovation, embracing DevOps methodologies and Agile principles. I steer enterprises through transformative projects, shaping IT strategies and leveraging distributed architecture within the AWS ecosystem. Since 2014, I've been an AWS Authorized Instructor, dedicating myself to the education of both current and upcoming cloud professionals. An AWS Hero, my curiosity and fervor for technology drive me to educate and advocate, establishing a significant presence in the Italian AWS community.
 ## Experience
 List your professional experience. Highlight key roles, responsibilities, and achievements.
 
