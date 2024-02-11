@@ -25,7 +25,7 @@ I have had the opportunity to share my knowledge and expertise at various confer
 
 | Year | Event Name            | Event Talk                        | Location   | Link to Presentation                           |
 |------|-----------------------|-----------------------------------|------------|------------------------------------------------|
-| 2013 | FdtICT                | Disaster Recovery on AWS          |            | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2013/2013%20-%20FdtICT%20-%20DR%20on%20AWS.pdf) |
+| 2013 | FdtICT                | Disaster Recovery on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2013/2013%20-%20FdtICT%20-%20DR%20on%20AWS.pdf) |
 | 2013 | Eurocloud             | Cloud Transcoding on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Eurocloud/2013/2013%20-%20Milano%20-%20Eurocloud%20-%20Cloud%20Transcoding.pdf) |
 | 2013 | Cloud Conference      | Hybrid Cloud Solutions            | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Cloud%20Conference/2013%20-%20Milano%20-%20CLC2013%20-%20Hybrid%20Cloud.pdf) |
 | 2014 | Docker Meetup         | Docker on AWS - Introduction      | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2014/20141215%20-%20Milno%20-%20Docker%20Meetup.pdf) |
@@ -40,6 +40,11 @@ I have had the opportunity to share my knowledge and expertise at various confer
 | 2022 | AWS Meetup - Cosenza  | DevOps Practices and Tools        | Cosenza    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2022/20221117%20-%20Calabria%20-%20Meetup%20DevOps.pdf) |
 | 2022 | AWS Meetup - Cremona  | Identity Foundations on AWS Cloud | Cremona    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2022/20221123%20-%20Cremona%20-%20Implement%20a%20strong%20identity%20foundation.pdf) |
 | 2022 | Cloud Day 2022        | Define a correct IAM strategy     | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Cloud%20Day/2022/20221027%20-%20Milano%20-%20Cloud%20Day%202022%20-%20Define%20a%20correct%20IAM%20strategy.pdf) |
+
+Master Cloud and DevOps
+AWSome Day
+ReInvent Recap
+
 
 ### Add more sections as needed based on your participation in different events or conferences.
 
