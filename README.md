@@ -20,6 +20,21 @@ Highlight a few key projects you've worked on. Provide links if available.
 ## Public Speaking
 I have had the opportunity to share my knowledge and expertise at various conferences and events. Below is a list of my public speaking engagements:
 
+| Year | Event Name            | Event Talk                        | Location   | Link                                           |
+|------|-----------------------|-----------------------------------|------------|------------------------------------------------|
+| 2013 | FdtICT                | Disaster Recovery on AWS          |            | [PDF](#)                                       |
+| 2014 | Docker Meetup         | Docker Introduction               | Milano     | [PDF](#)                                       |
+| 2015 | AWS User Group        | A talk on AWS                     | Ticino     | [PDF](#)                                       |
+| 2016 | CI&CD on AWS          | Continuous Integration & Delivery | Roma       | [PDF](#)                                       |
+| 2017 | Docker and AWS        | Docker on AWS                     | Roma       | [PDF](#)                                       |
+| 2017 | Serverless            | Serverless Architecture           | Milano     | [PDF](#)                                       |
+| 2019 | Learning Day Security | Security Practices                | Bologna    | [PDF](#)                                       |
+| 2022 | Meetup DevOps         | DevOps Culture                    | Calabria   | [PDF](#)                                       |
+| 2022 | Strong Identity Found.| Identity Foundations in Cloud     | Cremona    | [PDF](#)                                       |
+| 2020 | Cloud Day             | AWS Governance                    | Milano     | [PDF](#)                                       |
+
+
+
 ### AWS User Group
 - **Event 1 Title** - Brief description. [Link to slides or video if available]
 - **Event 2 Title** - Brief description. [Link to slides or video if available]
