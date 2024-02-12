@@ -28,34 +28,29 @@ I have had the opportunity to share my knowledge and expertise at various confer
 | 2013 | FdtICT                | Disaster Recovery on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2013/2013%20-%20FdtICT%20-%20DR%20on%20AWS.pdf) |
 | 2013 | Eurocloud             | Cloud Transcoding on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2013/2013%20-%20Milano%20-%20Eurocloud%20-%20Cloud%20Transcoding.pdf) |
 | 2013 | Cloud Conference      | Hybrid Cloud Solutions            | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2013/2013%20-%20Milano%20-%20CLC2013%20-%20Hybrid%20Cloud.pdf) |
-| 2014 | Docker Meetup         | Docker on AWS - Introduction      | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2014/20141215%20-%20Milno%20-%20Docker%20Meetup.pdf) |
-| 2015 | AWS Meetup - Ticino   | Infrastructure as Code on AWS     | Ticino     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2015/20150617%20-%20Ticino%20-%20A.pdf) |
-| 2016 | AWS Meetup - Roma     | CI/CD on AWS Cloud                | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2017/20161017%20-%20Roma%20-%20CI%26CD%20on%20AWS.pdf) |
-| 2017 | Università Tor Vergata | Docker on AWS                    | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2017/2017%20-%20Roma%20-%20Docker%20and%20AWS.pdf)   
-| 2017 | AWS Meetup - Roma     | From ECS to Fargate               | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2017/2017%20-%20Roma%20-%20From%20ECS%20to%20Fargate%3AECS.pdf) | 
-| 2017 | AWS Meetup - Roma     | Serverless Architectures          | Roma       | [PDF[(#)
-| 2017 | IDI                   | Serverless Workshop               | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2017/2017%20-%20Roma%20-%20From%20ECS%20to%20Fargate%3AECS.pdf) | 
-| 2017 | AWS Meetup - Milano   | Serverless Architectures          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2017/20170316%20-%20Milano%20-%20Serverless.pdf) |
+| 2014 | Docker Meetup         | Docker on AWS - Introduction      | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2014/20141215%20-%20Milno%20-%20Docker%20Meetup.pdf) |
+| 2015 | AWS Meetup - Ticino   | Infrastructure as Code on AWS     | Ticino     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2015/20150617%20-%20Ticino%20-%20A.pdf) |
+| 2016 | AWS Meetup - Roma     | CI/CD on AWS Cloud                | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2016/20161017%20-%20Roma%20-%20CI%26CD%20on%20AWS.pdf) |
+| 2017 | Università Tor Vergata | Docker on AWS                    | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2017/2017%20-%20Roma%20-%20Docker%20and%20AWS.pdf)   
+| 2017 | AWS Meetup - Roma     | From ECS to Fargate               | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2017/2017%20-%20Roma%20-%20From%20ECS%20to%20Fargate%3AECS.pdf) | 
+| 2017 | AWS Meetup - Roma     | Serverless Architectures          | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2017/Serverless%20Architectures%20on%20AWS.pdf)
+| 2017 | AWS Meetup - Milano   | Serverless Architectures          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2017/20170316%20-%20Milano%20-%20Serverless.pdf) |
 | 2017 | AWS Meetup - Roma     | AWS re:Invent re:Cap              | Roma       | NONE |
+| 2018 | Incontro DevOps Italia| Serverless Workshop               | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2018/IDI%202018%20-%20Workshop%20Serverless%20.pdf) | 
 | 2018 | AWS Meetup - Roma     | AWS re:Invent re:Cap              | Roma       | NONE |
-| 2019 | AWSome Day            | Cloud Migration                   | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWSome%20Day/2019/20190709%20-%20Roma%20-%20AWSome%20Day.pdf) |
-| 2019 | AWS Learning Day      | Security Practices                | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2019/20190615%20-%20Bologna%20-%20Learning%20Day%20Security.pdf) |   
+| 2019 | AWSome Day            | Cloud Migration                   | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2019/20190709%20-%20Roma%20-%20AWSome%20Day.pdf) |
+| 2019 | AWS Learning Day      | Security Practices                | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2019/20190615%20-%20Bologna%20-%20Learning%20Day%20Security.pdf) |   
 | 2019 | AWS Meetup - Roma     | AWS re:Invent re:Cap              | Roma       | NONE |
-| 2020 | Cloud Day 2020        | AWS Governance                    | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Cloud%20Day/2020/20201029%20-%20Milano%20-%20Cloud%20Day%202020%20-%20AWS%20Governance.pdf) |
+| 2020 | Cloud Day 2020        | AWS Governance                    | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2020/20201029%20-%20Milano%20-%20Cloud%20Day%202020%20-%20AWS%20Governance.pdf) |
 | 2020 | CEFRIEL               | Master Cloud Architecture         | Milano     | NONE |
 | 2020 | AWS Meetup - Roma     | AWS re:Invent re:Cap              | Roma       | NONE |
 | 2021 | CEFRIEL               | Master Cloud Architecture         | Milano     | NONE |
 | 2021 | AWS Meetup - Roma     | AWS re:Invent re:Cap              | Roma       | NONE |
-| 2022 | AWS Meetup - Cosenza  | DevOps Practices and Tools        | Cosenza    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2022/20221117%20-%20Calabria%20-%20Meetup%20DevOps.pdf) |
-| 2022 | AWS Meetup - Cremona  | Identity Foundations on AWS Cloud | Cremona    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2022/20221123%20-%20Cremona%20-%20Implement%20a%20strong%20identity%20foundation.pdf) |
-| 2022 | Cloud Day 2022        | Define a correct IAM strategy     | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Cloud%20Day/2022/20221027%20-%20Milano%20-%20Cloud%20Day%202022%20-%20Define%20a%20correct%20IAM%20strategy.pdf) |
+| 2022 | AWS Meetup - Cosenza  | DevOps Practices and Tools        | Cosenza    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2022/20221117%20-%20Calabria%20-%20Meetup%20DevOps.pdf) |
+| 2022 | AWS Meetup - Cremona  | Identity Foundations on AWS Cloud | Cremona    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2022/20221123%20-%20Cremona%20-%20Implement%20a%20strong%20identity%20foundation.pdf) |
+| 2022 | Cloud Day 2022        | Define a correct IAM strategy     | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2022/20221027%20-%20Milano%20-%20Cloud%20Day%202022%20-%20Define%20a%20correct%20IAM%20strategy.pdf) |
 | 2022| AWS Meetup - Roma     | AWS re:Invent re:Cap Extended Ed.  | Roma       | NONE |
 | 2023 | CEFRIEL               | Master Cloud Architecture         | Milano     | NONE |
-
-
-Master Cloud and DevOps
-AWSome Day
-ReInvent Recap
 
 
 ### Add more sections as needed based on your participation in different events or conferences.
