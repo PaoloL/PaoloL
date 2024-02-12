@@ -14,10 +14,12 @@ Skills: DevOps, Corporate Training, Business Development, AWS Cloud Solutions
 
 ### AWS Authorized Instructor Champion, Mentor and Ambassador
 Oct 2014 - Present | Rome, Latium, Italy (Hybrid)
-s AWS Authorized Instructor I assist AWS since 2014 on continued training and education of current and future generations of Cloud professionals
+
+As AWS Authorized Instructor I assist AWS since 2014 on continued training and education of current and future generations of Cloud professionals
 
 ### AWS Hero
 Jan 2015 - Present | Rome, Latium, Italy (Hybrid)
+
 As AWS Hero I love to spend time advocating/teaching others about a wide range of services and technologies, prominent leaders within Italian AWS community.
 
 ## Public Speaking
