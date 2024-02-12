@@ -25,9 +25,9 @@ I have had the opportunity to share my knowledge and expertise at various confer
 
 | Year | Event Name            | Event Talk                        | Location   | Link to Presentation                           |
 |------|-----------------------|-----------------------------------|------------|------------------------------------------------|
-| 2013 | FdtICT                | Disaster Recovery on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2013/2013%20-%20FdtICT%20-%20DR%20on%20AWS.pdf) |
-| 2013 | Eurocloud             | Cloud Transcoding on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Eurocloud/2013/2013%20-%20Milano%20-%20Eurocloud%20-%20Cloud%20Transcoding.pdf) |
-| 2013 | Cloud Conference      | Hybrid Cloud Solutions            | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/Cloud%20Conference/2013%20-%20Milano%20-%20CLC2013%20-%20Hybrid%20Cloud.pdf) |
+| 2013 | FdtICT                | Disaster Recovery on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2013/2013%20-%20FdtICT%20-%20DR%20on%20AWS.pdf) |
+| 2013 | Eurocloud             | Cloud Transcoding on AWS          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2013/2013%20-%20Milano%20-%20Eurocloud%20-%20Cloud%20Transcoding.pdf) |
+| 2013 | Cloud Conference      | Hybrid Cloud Solutions            | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2013/2013%20-%20Milano%20-%20CLC2013%20-%20Hybrid%20Cloud.pdf) |
 | 2014 | Docker Meetup         | Docker on AWS - Introduction      | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2014/20141215%20-%20Milno%20-%20Docker%20Meetup.pdf) |
 | 2015 | AWS Meetup - Ticino   | Infrastructure as Code on AWS     | Ticino     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2015/20150617%20-%20Ticino%20-%20A.pdf) |
 | 2016 | AWS Meetup - Roma     | CI/CD on AWS Cloud                | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/AWS%20User%20Group/2017/20161017%20-%20Roma%20-%20CI%26CD%20on%20AWS.pdf) |
