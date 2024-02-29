@@ -53,6 +53,7 @@ I have had the opportunity to share my knowledge and expertise at various confer
 | 2022 | Cloud Day 2022        | Define a correct IAM strategy     | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2022/20221027%20-%20Milano%20-%20Cloud%20Day%202022%20-%20Define%20a%20correct%20IAM%20strategy.pdf) |
 | 2022 | AWS Meetup - Roma     | AWS re:Invent re:Cap Extended Ed. | Roma       | NONE |
 | 2023 | CEFRIEL               | Master Cloud Architecture         | Milano     | NONE |
+| 2023 | AWS Summit            | Governance and Compliance         | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2023/AWS_SUMMIT_Governance_And_Compliance.pdf)
 | 2023 | UNICAL                | Data Sovereignty on AWS Cloud    | Cosenza    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2023/UNICAL_AWS_DataSovereignty.pptx.pdf)
 
 
