@@ -56,7 +56,7 @@ I have had the opportunity to share my knowledge and expertise at various confer
 | 2023 | AWS Summit            | Governance and Compliance         | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2023/AWS_SUMMIT_Governance_And_Compliance.pdf)
 | 2023 | UNICAL                | Data Sovereignty on AWS Cloud    | Cosenza    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2023/UNICAL_AWS_DataSovereignty.pptx.pdf)
 | 2024 | Incontro DevOps Italia | Compliance as Code: Shift Left and Shift Right    | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2024/IDI2024%20-%20Compliance%20as%20Code.pdf)
-| 2024 | AWS Summit | Mastering Spot Instances   | Milano    |https://github.com/PaoloL/public-speaking/blob/main/2024/AWSSummit2024_SpotInstances.pdf
+| 2024 | AWS Summit | Mastering Spot Instances   | Milano    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2024/AWSSummit2024_SpotInstances.pdf)
 
 
 
