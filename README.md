@@ -59,9 +59,9 @@ I have had the opportunity to share my knowledge and expertise at various confer
 | 2024 | AWS Summit | Mastering Spot Instances   | Milano    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2024/AWSSummit2024_SpotInstances.pdf)|X||
 | 2024 | AWS Community Day | Multitrack   | Roma    | Contact Me ||X|
 | 2024 | Serverless Days | Multitrack   | Roma    | Contact Me ||X|
-| 2025 | Recube | AWS Security and Compliance Workshop   | Roma    | Contact Me|X|X|
-| 2025 | Recube | Exploring Generative AI   | Roma    | Contact Me|X|X|
-| 2026 | AWS Community Day | Achieve Provable Security in the AWS Cloud   | Zurigo    | Contact Me|X||
+| 2024 | Recube | AWS Security and Compliance Workshop   | Roma    | Contact Me|X|X|
+| 2024 | Recube | Exploring Generative AI   | Roma    | Contact Me|X|X|
+| 2025 | AWS Community Day | Achieve Provable Security in the AWS Cloud   | Zurigo    | Contact Me|X||
 
 
 
