@@ -37,26 +37,29 @@ I have had the opportunity to share my knowledge and expertise at various confer
 | 2017 | AWS Meetup     | From ECS to Fargate               | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2017/2017%20-%20Roma%20-%20From%20ECS%20to%20Fargate%3AECS.pdf) |X|X|
 | 2017 | AWS Meetup    | Serverless Architectures          | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2017/Serverless%20Architectures%20on%20AWS.pdf) |X|X|
 | 2017 | AWS Meetup   | Serverless Architectures          | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2017/20170316%20-%20Milano%20-%20Serverless.pdf) |X||
-| 2017 | AWS Meetup   | AWS re:Invent re:Cap              | Roma       | NONE |X||
+| 2017 | AWS Meetup   | AWS re:Invent re:Cap              | Roma       | Contact Me |X||
 | 2018 | Incontro DevOps Italia| Serverless Workshop               | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2018/IDI%202018%20-%20Workshop%20Serverless%20.pdf) |X|X|
-| 2018 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | NONE |X||
+| 2018 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | Contact Me |X||
 | 2019 | AWSome Day            | Cloud Migration                   | Roma       | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2019/20190709%20-%20Roma%20-%20AWSome%20Day.pdf) |X||
 | 2019 | AWS Learning Day      | Security Practices                | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2019/20190615%20-%20Bologna%20-%20Learning%20Day%20Security.pdf) |X||   
-| 2019 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | NONE |X||
+| 2019 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | Contact Me |X||
 | 2020 | Cloud Day 2020        | AWS Governance                    | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2020/20201029%20-%20Milano%20-%20Cloud%20Day%202020%20-%20AWS%20Governance.pdf) |X||
 | 2020 | CEFRIEL               | Master Cloud Architecture         | Milano     | NONE |X||
-| 2020 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | NONE |X|X|
+| 2020 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | Contact Me |X|X|
 | 2021 | CEFRIEL               | Master Cloud Architecture         | Milano     | NONE |X||
-| 2021 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | NONE |X|X|
+| 2021 | AWS Meetup     | AWS re:Invent re:Cap              | Roma       | Contact Me |X|X|
 | 2022 | AWS Meetup  | DevOps Practices and Tools        | Cosenza    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2022/20221117%20-%20Calabria%20-%20Meetup%20DevOps.pdf) |X||
 | 2022 | AWS Meetup  | Identity Foundations on AWS Cloud | Cremona    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2022/20221123%20-%20Cremona%20-%20Implement%20a%20strong%20identity%20foundation.pdf) |X||
 | 2022 | Cloud Day 2022        | Define a correct IAM strategy     | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2022/20221027%20-%20Milano%20-%20Cloud%20Day%202022%20-%20Define%20a%20correct%20IAM%20strategy.pdf) |X||
-| 2022 | AWS Meetup     | AWS re:Invent re:Cap Extended Ed. | Roma       | NONE |X|X|
-| 2023 | CEFRIEL               | Master Cloud Architecture         | Milano     | NONE |X||
+| 2022 | AWS Meetup     | AWS re:Invent re:Cap Extended Ed. | Roma       | Contact Me |X|X|
+| 2023 | CEFRIEL               | Master Cloud Architecture         | Milano     | Contact Me |X||
 | 2023 | AWS Summit            | Governance and Compliance         | Milano     | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2023/AWS_SUMMIT_Governance_And_Compliance.pdf) |X||
 | 2023 | UNICAL                | Data Sovereignty on AWS Cloud    | Cosenza    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2023/UNICAL_AWS_DataSovereignty.pptx.pdf) |X||
 | 2024 | Incontro DevOps Italia | Compliance as Code: Shift Left and Shift Right    | Bologna    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2024/IDI2024%20-%20Compliance%20as%20Code.pdf) |X||
 | 2024 | AWS Summit | Mastering Spot Instances   | Milano    | [PDF](https://github.com/PaoloL/public-speaking/blob/main/2024/AWSSummit2024_SpotInstances.pdf)|X||
+| 2025 | Recube | AWS Security and Compliance Workshop   | Roma    | Contact Me|X|X|
+| 2025 | Recube | Exploring Generative AI   | Roma    | Contact Me|X|X|
+| 2026 | AWS Community Day | Achieve Provable Security in the AWS Cloud   | Zurigo    | Contact Me|X||
 
 
 
@@ -64,21 +67,3 @@ I have had the opportunity to share my knowledge and expertise at various confer
 
 ## Contact Me
 - LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/paololatella/)
-- GitHub: [Your GitHub profile](https://github.com/PaoloL)
-- Email: Your email address
-
-
-<!--
-**PaoloL/PaoloL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
